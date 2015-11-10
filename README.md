@@ -1,2 +1,3 @@
 # common.js
-Common use functions and action in JQuery
+Everyday used functions and actions are on one place just include the script and use.
+
